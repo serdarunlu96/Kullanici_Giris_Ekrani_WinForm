@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kullanici_Giris_Ekrani_WinForm", "Kullanici_Giris_Ekrani_WinForm\Kullanici_Giris_Ekrani_WinForm.csproj", "{49D4B467-1694-4104-96CD-4419606F5A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D4B467-1694-4104-96CD-4419606F5A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D4B467-1694-4104-96CD-4419606F5A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D4B467-1694-4104-96CD-4419606F5A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D4B467-1694-4104-96CD-4419606F5A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5E2D26-63E2-4E54-A5F1-558E8DF673BE}
+	EndGlobalSection
+EndGlobal
